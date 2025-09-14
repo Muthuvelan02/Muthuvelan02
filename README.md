@@ -1,5 +1,5 @@
-# 💫 About Me:
-🚀 Passionate about Software Development & Full-Stack Engineering<br>🎓 3rd-year Computer Engineering Student<br>💡 Building ReForm – an AI-powered Form Automation Platform<br>🔹 Skilled in React, Next.js, Tailwind CSS, and modern development tools<br>📱 Currently learning React Native & expanding full-stack expertise<br>⚡ Love working on SaaS projects, automation tools, and scalable systems
+#  About Me:
+ Passionate about Software Development & Full-Stack Engineering<br> Final year Computer Engineering Student<br> Building ReForm – an AI-powered Form Automation Platform<br> Skilled in React, Next.js, Tailwind CSS, and modern development tools<br> Currently learning React Native & expanding full-stack expertise<br> Love working on SaaS projects, automation tools, and scalable systems
 
 
 ## 🌐 Socials:

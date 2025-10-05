@@ -1,5 +1,5 @@
 # About Me:
-Final-year Computer Engineering student with strong focus on Full-Stack Development<br> Actively working on GeoFix – a location-based platform that helps users report, track, and resolve local issues quickly by connecting them with the right service providers.<br> Previously built ReForm, an AI-driven form automation SaaS platform<br> Skilled in React, Next.js, Tailwind CSS, Node.js, and modern web development tools<br> Currently learning Spring Boot and improving expertise in backend integration & scalable architectures<br> Passionate about building SaaS products, AI tools, and automation systems
+Final-year Computer Engineering student with strong focus on Full-Stack Development<br> Actively working on GeoFix – a location-based platform that helps users report, track, and resolve local issues quickly by connecting them with the right service providers.<br> Previously built ReForm, an AI-driven form automation SaaS platform<br> Skilled in React, Next.js, Tailwind CSS, Node.js, and modern web development tools<br> Currently learning Spring Boot and improving expertise in backend integration & scalable architectures<br> Passionate about building SaaS products, AI tools, and automation systems.
 
 
 ## Socials:
